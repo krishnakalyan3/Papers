@@ -1,4 +1,4 @@
-| First Header  | Second Header |
+| Paper  | Folder Name |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
